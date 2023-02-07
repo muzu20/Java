@@ -1,7 +1,14 @@
+import java.util.*;
 public class AddTwoNum {
+
     public static void main(String[] args) {
-        int a = 15;
-         int b =  10;
-        System.out.println(a+b);
+        Scanner sc = new Scanner(System.in);
+        String name = sc.next();
+        System.out.print(name);
     }
 }
+
+
+
+
+
